@@ -1,0 +1,44 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: black;
+}
+
+main{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+section{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin:10px;
+    padding:0;
+}
+
+h2{
+    text-align: center;
+    color: white;
+    font-size: 44px;
+    margin:20px;
+}
+p{
+    color:white;
+}
+
+a{
+    color: rgb(114, 243, 237);
+}
+
+video{
+    width: 400px;
+}
+
+img{
+    margin: 10px;
+    padding:0;
+}
